@@ -27,4 +27,4 @@
 - ***Visualization and Alerting in SIEM***: Developed a custom dashboard in Elastic SIEM to visualize security events, demonstrating data interpretation and pattern recognition skills. I have successfully created and tested alert rules for detecting specific security events, demonstrating proactive incident response and alert management competency.
  
 
-Here is the video: [https://youtu.be/7Gn6AaGuhIM], which shows how I deploy and implement Elastic Stack SIEM integrated into Kali Linux on VirtualBox.
+The [video](https://youtu.be/7Gn6AaGuhIM) shows how I deploy and implement Elastic Stack SIEM integrated into Kali Linux on VirtualBox.
